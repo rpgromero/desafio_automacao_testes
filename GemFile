@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+
+
+gem 'cucumber', '~> 3.1.0'
+
+gem 'capybara', '~> 3.0.0'
+
+gem 'rspec'
+
+gem 'selenium-webdriver', '~> 3.10'
