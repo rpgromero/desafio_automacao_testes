@@ -1,4 +1,4 @@
-# Options
+# Options and Variables
 url: "https://www.americanas.com.br/"
-usuario: "desafio.automacao.teste@gmail.com"
-senha: "Abcd1234@"
+user: "desafio.automacao.teste@gmail.com"
+password: "Abcd1234@"

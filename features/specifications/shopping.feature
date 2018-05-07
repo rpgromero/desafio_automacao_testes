@@ -10,13 +10,13 @@ When i fill the search field with the "mousepad"
 And i press the search button
 # Search result page
 Then i access the search result page
-Then i choose a "product"
+Then i choose a product
 # Product details page
 Then i access the product details page
 And i press the buy button
 # Cart details page
 Then i access the cart details page
-And i choose the quantity of itens "1" 
+And i choose the itens quantity "1" 
 And i press the continue button
 # Payment details page
 Then i access the payment details page
