@@ -1,6 +1,4 @@
-# desafio_automacao_testes
-Repositório o qual contém o desafio de uma automação de testes, feita em Ruby(Capybara) de um 'marketplace'.
-# Automacao de Testes do e-commerce das lojas Americanas
+# Arquivo 'README' referente a Automação de Testes do e-commerce das lojas Americanas
 ## Linguagens Utilizadas 
 Ruby e Gherkin.
 ```
@@ -27,12 +25,14 @@ O arquivo 'env'contém as configurações gerais do framework Capybara(driver de
 leitura do arquivo 'config'(já mencionado acima).
 ```
 ## Cenários de Teste
+```
 A escrita dos cenários de teste foram concebidos através dos fluxos mencionados no desafio. Todas as telas possuem algum tipo de validação, promovendo 
 maior exatidão ao acessa-las e todas as validações obrigatórias foram sumariamente respeitadas. Os casos de teste foram escritos da maneira mais enxuta o 
 possível para que possam ser reutilizados nos demais processos de desenvolvimento os quais podem ocorrer futuramente. Todos os casos de teste possuem 
 comentários para guiar o usuário. Não foi possível realizar a automação dos "reCAPTCHA" da tela de Login(os mesmos aparecem pois se tratam de uma automação de software) porém inseri um comando(sleep) para que o usuário tenha tempo o suficiente para resolver o "reCAPTCHA", depois disso, a automação seguirá normalmente.A escrita e implementação foram feitas na língua inglesa visando projetos de nível internacional.
 ```
 ## Como Executar os Cenários de Teste?
+```
 Ambiente utilizado: Windows 7-10
 Possuir o navegador "Google Chrome" previamente instalado.
 Realizar o download da versão (Ruby+Devkit 2.4.4-1) -> https://rubyinstaller.org/downloads/
