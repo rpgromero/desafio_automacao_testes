@@ -2,3 +2,6 @@
 url: "https://www.americanas.com.br/"
 user: "desafio.automacao.teste@gmail.com"
 password: "Abcd1234@"
+credit_card_number: "4853326203925812"
+credit_card_name: "DESAFIO AUTOMACAO"
+credit_card_security_number: "924"
